@@ -1,0 +1,66 @@
+.m{
+  background-color:rgb(141, 212, 34);
+  font-size: 40px;
+  width:1300px;
+ 
+  
+ 
+}
+.f{
+  color:rgb(238, 59, 238);
+  font-size:60%;  
+}
+.E{
+  color: blueviolet;
+  background-color: rgb(163, 106, 80);
+  width: 65%;
+  height: 1%;
+  padding: 2%;
+  border: 4px solid red;
+}
+.G{
+  border: rgb(11, 176, 241);
+  
+  width: 100%;
+  height: 2%;
+  padding: 2%;
+  border: 4px solid blue
+}
+.H{
+  color: blueviolet;
+  background-color: rgb(163, 106, 80);
+  width: 65%;
+  height: 1%;
+  padding: 2%;
+  border: 4px solid red;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+
+.I{
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;  
+}
+.J{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
+.K{
+  background-color: blueviolet;
+  font-size: 20px;
+
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 5px;
+  border-style: solid;  
+}
